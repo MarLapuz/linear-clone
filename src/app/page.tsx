@@ -25,9 +25,7 @@ export default function Home() {
       >
         <StarsIllustration />
       </div>
-      <Container>
-        <UnlikeAnyTool />
-      </Container>
+      <UnlikeAnyTool />
     </>
   );
 }
